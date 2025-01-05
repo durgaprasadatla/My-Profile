@@ -1,0 +1,165 @@
+.ha{
+    background-color:black;
+    width: 100%;
+    /* height: 7000px; */
+    /* url(https://media.istockphoto.com/id/1221837116/photo/positive-man-celebrating-success.jpg?s=2048x2048&w=is&k=20&c=EW6WZ4SnTZ82DKcZEFcthgl3gwzBEV2DDkEJdOR10fs=); */
+    /* border: 2px solid black; */
+    /* box-shadow: black; */
+    /* width: 100%;
+     /* height: 200px */
+}
+/* .durga{
+    margin-left: 1000px;
+    margin-top: 175px;
+    border:  solid white;
+    width: 350px;
+    height: 350px;
+    box-shadow: 0 0 3em yellow;
+    border-radius: 20px;
+} */
+/* form{
+    text-align: center;
+    margin-top: 20px;
+}
+.dur{
+    border-radius: 10px;
+    box-shadow: 0 0 3em black;
+}
+.du{
+    text-align: center;
+    border-radius: 10px;
+    height: 35px;
+    width: 300px;
+    box-shadow: 0 0 2em yellow;
+} */
+ .hello{
+   position: fixed;
+   width: 100%;
+ }
+ .main{
+    margin:0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background-color: #2222;
+    box-sizing: border-box ;
+    /* display: flex; */
+    /* place-content: center end; */
+    
+ }
+ .container{
+    font-size: 10px;
+    width: 40em;
+    height: 40em;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    /* z-index: 5; */
+    /* place-content: center end; */
+ }
+ .moon{
+    display: flex;
+    position: absolute;
+    /* place-content: center start; */
+    top: 1em;
+    /* left: ; */
+    width: 40em;
+    height: 40em;
+    border-radius: 30%;
+    background-color: green;
+    box-shadow: 0 0 5em skyblue;
+    /* filter: blur(50px);
+    content: ""; */
+    /* animation: spin 2s linear infinite; */
+    /* z-index: 0; */
+    box-sizing: border-box;
+    /* margin-left: 10px; */
+ }
+
+ .dp{
+    position: absolute;
+    display: grid;
+    top: 1em;
+    left: 3%;
+    height: 400px;
+     width: 400px; 
+     border-radius: 30%;
+ }
+ h2{ 
+    position: absolute;
+    top: 12em;
+    width: 35em;
+    margin-left: 70px;
+    font-size: 35px;
+    color: white;
+    text-shadow:0px 0px 10px blueviolet,
+    0px 0px 10px blueviolet,
+    0px 0px 10px blueviolet,
+    0px 0px 10px blueviolet
+ }
+ .det{
+    color: white;
+    margin-left: 40px;
+    display: grid;
+    /* position: absolute; */
+    text-align: center;  
+ }
+ h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    text-shadow: 0px 0px 10px hotpink,
+    0px 0px 20px hotpink,
+    0px 0px 30px hotpink,
+    0px 0px 40px hotpink
+ }
+ h4{
+    color: yellow;
+    text-shadow:  0px 0px 10px yellow,
+ }
+h3{
+    text-shadow:  0px 0px 10px blue,
+    0px 0px 20px blue,
+    0px 0px 10px blue; 
+ }
+ .sub{
+    width: 100px;
+    margin-left: 220px;
+    color:black;
+    border-radius: 10px;
+    background-color: lightblue;
+ }
+  form{
+    text-align: center;
+    margin-top: 20px;
+    /* background-color: black; */
+  } 
+body{
+    background:black
+    /* width: 300px; */
+}
+.su{
+   background-color: lightskyblue;
+   color: black;
+   /* height:; */
+}
+.fo{
+   width: 250px;
+   height: 40px;
+   border-radius: 10px;
+   gap: 20px;
+   box-shadow: 10px 10px 10px yellow;
+}
+.fa{
+   width: 450px;
+   height: 200px;
+   border-radius: 20px;
+   box-shadow: 10px 10px 10px red;
+   box-shadow: 10px 5px 0px yellow;
+}
+.ra{
+   color: white;
+}
+
